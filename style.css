@@ -1,0 +1,23 @@
+/* 1st part */
+.first-section {
+    background-image: url('assets/Hero-bg.png');
+}
+
+.first-part {
+    text-align: center;
+}
+
+.first-part h1 {
+    font-size: 50px;
+}
+
+.first-part button {
+    padding: 10px 30px;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+
+span {
+    word-spacing: 40px;
+}
