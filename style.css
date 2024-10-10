@@ -76,3 +76,46 @@ span {
     border-radius: 5px;
     margin-top: 50px;
 }
+
+
+/* 4th-part */
+.forth-part {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.forth-part h1 {
+    font-size: 40px;
+}
+
+.skill-cart {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.skill-cart h6 {
+    text-decoration: underline;
+    font-size: 15px;
+}
+
+.skill-1 {
+    background-color: rgb(218, 225, 225);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.skill-2 {
+    background-color: rgb(232, 226, 224);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.skill-3 {
+    background-color: rgb(245, 243, 246);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
