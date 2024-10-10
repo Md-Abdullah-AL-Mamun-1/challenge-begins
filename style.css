@@ -153,3 +153,22 @@ span {
     background-color: aliceblue;
     border-radius: 3px;
 }
+
+
+
+/* footer */
+footer section {
+    display: flex;
+    background-color: bisque;
+    justify-content: end;
+    margin: 100px;
+}
+
+footer h1 {
+    padding-right: 55%;
+}
+
+footer button {
+    background-color: bisque;
+    border: none;
+}
