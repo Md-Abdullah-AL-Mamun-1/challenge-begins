@@ -119,3 +119,37 @@ span {
     padding: 20px;
     border-radius: 5px;
 }
+
+/* 5th-part */
+.fifth-part {
+    text-align: center;
+    background-image: url('assets/handshake.jpg');
+    margin: 100px;
+    padding: 50px;
+    color: aliceblue;
+}
+
+.fifth-part input {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 400px;
+    padding-left: 5px;
+    color: black;
+    background-color: aliceblue;
+    margin-right: 30px;
+    border: none;
+    border-radius: 3px;
+}
+
+.submit-part {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.submit-part button {
+    padding: 10px 20px;
+    color: black;
+    background-color: aliceblue;
+    border-radius: 3px;
+}
