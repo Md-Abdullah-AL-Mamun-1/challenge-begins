@@ -21,3 +21,38 @@
 span {
     word-spacing: 40px;
 }
+
+
+/* 2nd part */
+.second-part {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.second-part h1 {
+    font-size: 40px;
+}
+
+.second-code {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.second-code h1 {
+    color: darkgrey;
+}
+
+.second-code button {
+    padding: 5px 10px;
+    border-radius: 2px;
+    border: 1px solid black;
+}
+
+.second-code-text {
+    margin-right: 150px;
+}
+
+.second-code-text2 {
+    margin-left: 150px;
+}
